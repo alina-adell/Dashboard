@@ -414,7 +414,7 @@ svg.filled:hover path {
 
 }
 .icon-support:hover * {
-    fill:red
+    fill:blue;
 }
 
 .button-support:hover {
